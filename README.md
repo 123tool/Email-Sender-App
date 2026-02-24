@@ -19,7 +19,7 @@ A simple email sender application built with Python and Tkinter.
          
 1.  Install Python and pip: `sudo apt-get install python3 python3-pip`
 2.  Install required packages: `pip3 install pillow`
-3.  Clone the repository: `git clone https://github.com/your-username/email-sender.git`
+3.  Clone the repository: `git clone https://github.com/123tool/Email-Sender-App.git`
 4.  Navigate to the repository: `cd email-sender`
 5.  Run the application: `python3 Sender.py`
 
